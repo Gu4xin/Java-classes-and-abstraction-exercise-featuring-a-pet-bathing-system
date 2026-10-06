@@ -1,18 +1,13 @@
-## Getting Started
+# Simple bathing pet system in JAVA 
+---
+This exercise uses the concepts of classes and abstraction to make a system to wash pets
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+In the system you can:
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Give a name to your pet
+2. Put your pet in the washing machine
+3. Wash your pet
+4. Take your pet of the washing machine
+5. Check the levels of water and shampoo
+6. Fill the machine with water and shampoo
+7. And wash the machine it self
